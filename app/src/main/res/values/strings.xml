@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator_Sergeenkov393</string>
+
+
+
+
+    <string name="infoUsual">Обычный</string>
+    <string name="infoA">A:</string>
+    <string name="infoB">B:</string>
+    <string name="infoResult">Result:</string>
+    <string name="infoAdd">Add</string>
+    <string name="infoSubtraction">Subtraction</string>
+    <string name="infoMultiplication">Multiplication</string>
+    <string name="infoDivision">Division</string>
+
+</resources>
